@@ -55,3 +55,19 @@
 
 ⭐ Thank you for visiting my profile!
 
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,git,github,vscode" />
+</p>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishalini131618&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalini131618&theme=tokyonight" />
+</p>
